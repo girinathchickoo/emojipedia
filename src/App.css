@@ -1,0 +1,35 @@
+body{
+  text-align:center;
+  margin:0;
+  background-color: #c0d2d4;}
+  *{
+  box-sizing: border-box;
+}
+
+
+.heading{
+  color:white;
+  background-color:#2ec2b0;
+  font-size:70px;
+  width:400px;
+  margin:50px auto;
+}
+
+.App{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
+
+dl{
+
+  background-color: #fff;
+  width:400px;
+  height:350px;
+  margin-left:30px;
+  padding:20px;
+}
+dd{margin:0;
+line-height: 1.5;}
